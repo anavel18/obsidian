@@ -1,0 +1,9 @@
+{
+    "accentColor": "",
+    "cssTheme": "Things",
+    "interfaceFontFamily": "Montserrat",
+    "enabledCssSnippets": [
+        "sidebar-colored"
+    ],
+    "baseFontSize": 15
+}
