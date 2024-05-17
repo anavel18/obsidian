@@ -2,6 +2,8 @@
 
 Obsidian is a powerful note-taking and knowledge management application that allows you to create, organize, and connect your thoughts, ideas, and information in a non-linear manner. It uses a combination of plain text files, Markdown formatting, and backlinking to create an interconnected web of notes that can be easily navigated and referenced.
 
+https://github.com/obsidianmd
+
 ## How to use this repository
 
 1. Clone or download this repository to your local machine.
