@@ -1,0 +1,12 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "fleeting",
+  "attachmentFolderPath": "attachments",
+  "mobileToolbarCommands": []
+}
