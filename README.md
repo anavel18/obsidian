@@ -6,8 +6,8 @@ You can get it at https://obsidian.md/
 
 ## How to use this repository
 
-1. Clone or download this repository to your local machine.
-2. Install Obsidian if you haven't already.
+1. Install Obsidian if you haven't already.
+2. Clone or download this repository to your local machine.
 3. Open the Obsidian app and select "Open folder as vault" from the file menu.
 4. Navigate to the location where you cloned/downloaded this repository and select it.
 5. Your Obsidian vault will now contain all the notes from this repository.
